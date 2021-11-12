@@ -23,3 +23,4 @@ ISIDORA LINACRE
 
 JOSE TOMAS GUTIERREZ
 
+![image](https://user-images.githubusercontent.com/71188483/141407985-5d094753-18bc-4b53-addb-5388df1656e4.png)
