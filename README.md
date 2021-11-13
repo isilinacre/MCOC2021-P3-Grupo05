@@ -20,6 +20,7 @@ JOSE IGNACIO HIRMAS
 
 ISIDORA LINACRE
 
+![image](https://github.com/isilinacre/MCOC2021-P3-Grupo05/blob/main/P3E3_Linacre.png)
 
 JOSE TOMAS GUTIERREZ
 
