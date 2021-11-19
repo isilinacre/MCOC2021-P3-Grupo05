@@ -69,10 +69,13 @@ Funciones de costos por arcos:
 
 ![image](https://user-images.githubusercontent.com/70209467/142665892-30122769-038a-4fce-8e92-f30283bf4472.png)
 
-Pregunta 1: 
-Pregunta 2: 
-Pregunta 3: 
-Pregunta 4: 
+Pregunta 1: Las zonas seleccionadas se tomaron recorriendo la matriz origen destino y observando cuales viajes inluían Américo Vespucio en el trayecto, por lo que si un viaje usaba Américo Vespucio, se consideraba la zona de origen y la de destino. Cabe destacar que hay zonas muy cercanas a AVO que la lógica de recorrer la matriz origen destino no las toma en cuenta dado que zonas cercanas a Américo Vespucio podrían no necesitar ese tramo para moverse a otra zona. Cabe destacar que la funcion a costo inicial para ver que viaje usaba AVO fue una version simplificada de la funcion de costo original, ya que asumimos que el flujo era 0 y el factor que cobrarba mas incidencia era el tiempo ascociado a la longitud y velocidad del arco
+
+Pregunta 2: Con la lógica de la pregunta 1, se formó una lista con las zonas consideradas, dando un total de 502 zonas.
+
+Pregunta 3: Se deberán asignar la cantidad de viajes que utilicen algun tramo de Américo Vespucio, toda esta info obtenida de la matriz OD.
+
+Pregunta 4: Los pares OD que generen mayor flujo son los viajes provenientes de las zonas limítrofes, puesto que como Américo Vespucio es un anillo que recorre los lugares alejados del centro de Santiago, los viajes que utlicen esta autopísta serán de los que necesiten trasladarse de una zona limítrofe de la ciudad a otra.
 
 
 
