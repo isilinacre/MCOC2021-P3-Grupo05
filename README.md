@@ -67,7 +67,12 @@ Funciones de costos por arcos:
 
 # ENTREGA 5
 
-![image](https://user-images.githubusercontent.com/70209467/142571250-48a1f732-4a29-4df1-b5ce-3d8b606a1b31.png)
+![image](https://user-images.githubusercontent.com/70209467/142665892-30122769-038a-4fce-8e92-f30283bf4472.png)
+
+Pregunta 1: 
+Pregunta 2: 
+Pregunta 3: 
+Pregunta 4: 
 
 
 
